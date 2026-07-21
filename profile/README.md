@@ -6,7 +6,7 @@
 
 ---
 
-**jardisAdapter** contains the open-source infrastructure adapters that sit behind the ports of Jardis-generated hexagonal applications. Each package implements a well-defined contract (PSR where one exists; `jardissupport/contract` where one does not) so that no framework or infrastructure choice bleeds into the domain layer.
+**jardisAdapter** contains the open-source infrastructure adapters that sit behind the ports of Jardis-generated hexagonal applications. Each package implements a well-defined contract (PSR where one exists; `jardissupport/contracts` where one does not) so that no framework or infrastructure choice bleeds into the domain layer.
 
 > These packages are MIT-licensed building blocks of the open-source foundation that Jardis-generated DDD code runs on. The platform that generates production-ready hexagonal code for PHP is available at [jardis.io](https://jardis.io).
 
