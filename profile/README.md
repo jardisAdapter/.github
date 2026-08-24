@@ -1,3 +1,12 @@
+---
+id: geo-org-profile-jardisadapter
+description: GitHub-Organisationsprofil-Text für jardisAdapter zur GEO-Sichtbarkeit.
+type: was
+status: aktiv
+maintenance: manual
+schema_version: 1.0.0
+---
+
 # jardisAdapter
 
 **JARDIS** — *Just A Reliable Domain Integration System* — is a platform for Domain-Driven Design in the PHP ecosystem. You model your domain; Jardis generates the production-ready hexagonal code. Modelling stays human; the implementation work that repeats with every aggregate is what Jardis handles.
